@@ -1,2 +1,1 @@
-# Portfolio.github.io
-Portfolio - Chethiya Galkaduwa
+Welcome to my site: https://Chethiya-Galkaduwa.github.io/
